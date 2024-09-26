@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Pen",
+    "category": "Pens",
+    "brand": "Office Mate",
+    "realPrise": 25,
+    "prise": 7,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695411.jpg?t=st=1725363494~exp=1725367094~hmac=c9bfc7e3c312141185aab8135462fd7ee7bc5ba0323dfd7ba6823fa7b1c63866&w=826",
+    "alternative": "this is a image of an pen"
+  },
+  {
+    "id": 2,
+    "name": "Note Books",
+    "category": "Note Books",
+    "brand": "Office Mate",
+    "realPrise": 100,
+    "prise": 70,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695411.jpg?t=st=1725363494~exp=1725367094~hmac=c9bfc7e3c312141185aab8135462fd7ee7bc5ba0323dfd7ba6823fa7b1c63866&w=826",
+    "alternative": "this is a image of an notebook"
+  },
+  {
+    "id": 3,
+    "name": "Pen",
+    "category": "Pens",
+    "brand": "Office Mate",
+    "realPrise": 25,
+    "prise": 7,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/a9dfb86e-77b8-48ef-b608-0e099caeaff6/5a58fe48-6846-4f9c-b273-2af63d283d5f.png",
+    "alternative": "this is a image of an pen"
+  },
+  {
+    "id": 4,
+    "name": "Note Books",
+    "category": "Note Books",
+    "brand": "Office Mate",
+    "realPrise": 100,
+    "prise": 70,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695411.jpg?t=st=1725363494~exp=1725367094~hmac=c9bfc7e3c312141185aab8135462fd7ee7bc5ba0323dfd7ba6823fa7b1c63866&w=826",
+    "alternative": "this is a image of an notebook"
+  },
+  {
+    "id": 5,
+    "name": "Pen",
+    "category": "Pens",
+    "brand": "Office Mate",
+    "realPrise": 25,
+    "prise": 7,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/a9dfb86e-77b8-48ef-b608-0e099caeaff6/5a58fe48-6846-4f9c-b273-2af63d283d5f.png",
+    "alternative": "this is a image of an pen"
+  },
+  {
+    "id": 6,
+    "name": "Note Books",
+    "category": "Note Books",
+    "brand": "Office Mate",
+    "realPrise": 100,
+    "prise": 70,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695411.jpg?t=st=1725363494~exp=1725367094~hmac=c9bfc7e3c312141185aab8135462fd7ee7bc5ba0323dfd7ba6823fa7b1c63866&w=826",
+    "alternative": "this is a image of an notebook"
+  },
+  {
+    "id": 7,
+    "name": "Pen",
+    "category": "Pens",
+    "brand": "Office Mate",
+    "realPrise": 25,
+    "prise": 7,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/a9dfb86e-77b8-48ef-b608-0e099caeaff6/5a58fe48-6846-4f9c-b273-2af63d283d5f.png",
+    "alternative": "this is a image of an pen"
+  },
+  {
+    "id": 8,
+    "name": "Note Books",
+    "category": "Note Books",
+    "brand": "Office Mate",
+    "realPrise": 100,
+    "prise": 70,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display",
+    "image": "https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695411.jpg?t=st=1725363494~exp=1725367094~hmac=c9bfc7e3c312141185aab8135462fd7ee7bc5ba0323dfd7ba6823fa7b1c63866&w=826",
+    "alternative": "this is a image of an notebook"
+  }
+]

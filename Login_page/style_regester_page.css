@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    font-family: "Poppins", sans-serif;
+}
+body {
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 10px;
+    background: url('img.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.main-container {
+    padding: 10px;
+    width: 480px;
+    border: #fff solid;
+    border-radius: 25px;
+    backdrop-filter: blur(20px);
+    padding: 30px 40px;
+    color: #fff;
+}
+.main-container h1 {
+    text-align: center;
+    font-size: 35px;
+}
+.main-container .input_box {
+    width: 100%;
+    position: relative;
+    height: 50px;
+    margin: 10px 0;
+}
+.main-container input {
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(231, 209, 209);
+    border-radius: 25px;
+    font-size: 16px;
+    color: #fff;
+    padding: 0 20px; 
+}
+.main-container input::placeholder {
+    color: #fff;
+}
+.input_box i {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 20px;
+}
+.main-container .Back-page {
+    font-size: 18px;
+    justify-content: space-between;
+    margin: 20px 0 15px;
+    display: flex;
+}
+.Back-page label{
+    font-size: 18px;
+    margin-left: 5px;
+}
+.Back-page a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.Back-page a:hover{
+    text-decoration: underline;
+}
+.main-container button {
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    box-shadow: 0 0 30px black;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    color: black;
+}
